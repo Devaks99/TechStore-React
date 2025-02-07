@@ -20,9 +20,9 @@ Um e-commerce moderno e responsivo para dispositivos móveis e eletrônicos, des
 
 ### **Responsividade Mobile**
  ![Tela mobile TechStore](https://github.com/user-attachments/assets/b9409f3a-484f-4c20-8926-ebe357bab90b)
- ![Tela 2 mobile TechStore](https://github.com/user-attachments/assets/2fb00bbd-296e-4d0d-ab8e-45afa46cb249) 
- 
-![Tela 3 mobile TechStore](https://github.com/user-attachments/assets/c63e6c02-1c10-4b60-92ed-7bedd2ab36ac)
+ ![Tela 2 mobile TechStore](https://github.com/user-attachments/assets/17721fc7-ac6b-4cd2-b467-409d53d65a3e)
+ ![Tela 3 mobile TechStore](https://github.com/user-attachments/assets/316ec137-e031-4554-ad24-6a9e4385cc3b)
+
 
 ---
 
