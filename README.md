@@ -22,8 +22,6 @@ Um e-commerce moderno e responsivo para dispositivos móveis e eletrônicos, des
  ![Tela mobile TechStore](https://github.com/user-attachments/assets/b9409f3a-484f-4c20-8926-ebe357bab90b)
  ![Tela 2 mobile TechStore](https://github.com/user-attachments/assets/2fb00bbd-296e-4d0d-ab8e-45afa46cb249) 
  
- 
-![Mobile - Carrinho]
 ![Tela 3 mobile TechStore](https://github.com/user-attachments/assets/c63e6c02-1c10-4b60-92ed-7bedd2ab36ac)
 
 ---
