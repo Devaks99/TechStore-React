@@ -2,15 +2,32 @@
 
 Um e-commerce moderno e responsivo para dispositivos móveis e eletrônicos, desenvolvido com React + Vite.  
 
-##Screenshots
+## 📸 Screenshots
+### **Página Principal - Catálogo de Produtos**
 ![Tela 1 TechStore](https://github.com/user-attachments/assets/e560e66b-352b-4ae4-a31d-0a4927081748)
 ![Tela 2 TechStore](https://github.com/user-attachments/assets/2bd2cd1a-f69e-4e2c-b6c5-164ea20f3069)
 ![Tela 3 TechStore](https://github.com/user-attachments/assets/3c3caf82-ce8e-4da8-a85a-56bbe320e020)
-![Tela 4 TechStore](https://github.com/user-attachments/assets/b4d952b1-e52d-4053-a2c0-b21654e7af87)
-![Tela 5 TechStore](https://github.com/user-attachments/assets/2b8d94db-9378-4c5e-9aa2-3ac2f71d3140)
-
+*Exibição dos smartphones em grade responsiva 4x3 com botões de ação*
 
 ---
+
+### **Página do Carrinho**
+![Tela 4 TechStore](https://github.com/user-attachments/assets/b4d952b1-e52d-4053-a2c0-b21654e7af87)
+![Tela 5 TechStore](https://github.com/user-attachments/assets/2b8d94db-9378-4c5e-9aa2-3ac2f71d3140)
+*Interface do carrinho com lista de itens, quantidades e totalização*
+
+---
+
+### **Responsividade Mobile**
+| ![Tela mobile TechStore](https://github.com/user-attachments/assets/b9409f3a-484f-4c20-8926-ebe357bab90b)| 
+| ![Tela 2 mobile TechStore](https://github.com/user-attachments/assets/2fb00bbd-296e-4d0d-ab8e-45afa46cb249)|  
+ 
+ 
+| ![Mobile - Carrinho]| 
+![Tela 3 mobile TechStore](https://github.com/user-attachments/assets/c63e6c02-1c10-4b60-92ed-7bedd2ab36ac)|
+|---------------------------------------------------------|-----------------------------------------------------|
+| *Visualização mobile do catálogo*                       | *Carrinho adaptado para dispositivos menores*       |
+
 
 ## ✨ Funcionalidades Principais
 
