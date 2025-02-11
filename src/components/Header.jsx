@@ -1,17 +1,22 @@
 import { Link } from 'react-router-dom';
 import { Cart } from './Cart';
-import { GiSmartphone } from 'react-icons/gi'; // Ícone alterado aqui
+import { GiSmartphone } from 'react-icons/gi'; // Ícone smartphone
+import { ThemeToggle } from './ThemeToggle';
 
 export const Header = () => {
   return (
     <header className="header">
       <div className="logo">
         <Link to="/">
-          <GiSmartphone className="logo-icon" /> {/* Ícone aplicado aqui */}
+          <GiSmartphone className="logo-icon" /> 
           <span>TechStore</span>
         </Link>
       </div>
-      <Cart />
+
+      <div className="header-controls">
+        <ThemeToggle />
+        <Cart />
+      </div>
     </header>
   );
 };
