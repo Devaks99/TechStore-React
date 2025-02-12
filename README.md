@@ -1,6 +1,6 @@
 # 🛍️ TechStore - E-commerce de Tecnologia
 
-Um e-commerce moderno e responsivo para dispositivos móveis e eletrônicos, desenvolvido com React + Vite.  
+Um e-commerce moderno e responsivo para compra de dispositivos móveis e eletrônicos, desenvolvido com React + Vite. Este projeto faz parte da Summer Academy , uma atividade promovida pela Accenture em parceria com a UNINASSAU Boa Viagem . 
 
 ## 📸 Screenshots
 ### **Página Principal - Catálogo de Produtos**
